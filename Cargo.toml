@@ -1,4 +1,4 @@
-[workspace]
+#[workspace]
 members = [
     ".",
     "iri-string-tests",
@@ -10,7 +10,7 @@ name = "iri-string"
 version = "0.7.9"
 authors = ["YOSHIOKA Takuma <nop_thread@nops.red>"]
 edition = "2021"
-rust-version = "1.60"
+# rust-version = "1.60"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 description = "IRI as string types"
